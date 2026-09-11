@@ -1,0 +1,1 @@
+export default function IndicatorList() { return <div>Indicator List Page</div>; }
