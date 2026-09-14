@@ -1,0 +1,1 @@
+export const initI18n = () => { console.log('i18n initialized'); };
