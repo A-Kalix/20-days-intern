@@ -8,5 +8,6 @@ namespace H40.Domain.Entities
         public string Name { get; set; } = string.Empty;
         public string Description { get; set; } = string.Empty;
         public int DimensionId { get; set; }
+        public int AnswerTypeId { get; set; } // Linked Answer Type
     }
 }
