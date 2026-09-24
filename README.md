@@ -29,4 +29,4 @@ This repository contains the full 20-day internship project for Hastane 4.0.
 - **Day 19:** Standardized error handling globally via API Middleware and frontend Axios interceptors.
 - **Day 20:** Finalized UI theming (Dark/Light), compiled the final internship report, and prepared code for handoff.
 
-Project is fully documented and ready for handoff.
+Project is documented.
